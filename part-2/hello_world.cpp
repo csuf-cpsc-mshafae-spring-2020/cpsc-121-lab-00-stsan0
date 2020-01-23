@@ -1,11 +1,11 @@
-// Oscar Mayer
-// CPSC 121-99
-// oscar.mayer@csu.fullerton.edu
+// Steven Tsan
+// CPSC 121-03
+// stsan@csu.fullerton.edu
 
 #include <iostream>
 using namespace std;
 
 int main(int argc, char *argv[]){
-  cout << "Hello world!" << endl;
+  cout << "Hi mom. This is my friend." << argv[1] << ".\n";
   return 0;
 }
