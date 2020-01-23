@@ -1,2 +1,6 @@
+// Steven Tsan
+// CPSC 121-03
+// stsan@csu.fullerton.edu
+
 "The cost of liberty is less than the price of repression."
 from John Brown by W.E.B. Du Bois
