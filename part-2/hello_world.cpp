@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(int argc, char *argv[]){
-  if (isalpha(argv[1])){
+  if (argc >= 2)){
     for (int repeat = 0;repeat < argv[2];repeat++){
       cout << "Hi" << argv[1] << ".\n";
     }
